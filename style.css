@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: black;
+    color: brown;
+    height: 15vh;
+    margin: 0px;
+    border: 3px solid rgb(16, 248, 74);
+    padding: 2px;
+}
+
+.LEFT {
+    background-color: blue;
+    height: 70vh;
+    width: 50%;
+    display: inline-block;
+    background-image: url(/mataf.jpeg);
+}
+
+.RIGHT {
+    background-color: blueviolet;
+    height: 70vh;
+    width: 50%;
+    display: inline-block;
+    background-image: url(/Kashif.jpeg);
+    background-size: 100px;
+    background-repeat: no-repeat;
+}
+footer{
+    display: inline-block;
+    background-color: black;
+    color: chartreuse;
+    height: 10vh;
+    width: 50%;
+    text-align: center;
+}
